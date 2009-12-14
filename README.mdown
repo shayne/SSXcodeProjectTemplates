@@ -6,5 +6,8 @@ This is one (and soon more) of the project templates I use, instead of default o
 
 These project templates are XIB free.
 
- - **Window-based Application**:
-		A small and simple projec template. A quick way to get up and running, I use this for just about any app. Unlike the Apple provided template, there is no `MainWindow.xib`, as such there is no `IBOutlet UIWindow` ivar in the application delegate. 
+ - **Window-based Application**: A small and simple projec template. A quick way to get up and running, I use this for just about any app. Unlike the Apple provided template, there is no `MainWindow.xib`, as such there is no `IBOutlet UIWindow` ivar in the application delegate.
+
+## Installation Instructions
+
+I put my customized Xcode project templates in `~/Library/Application Support/Developer/Shared/Xcode/Project Templates/Application` and they appear in the **Application** templates under **User Templates** section.
